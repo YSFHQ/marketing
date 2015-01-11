@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^serverlist/(.*)$ http://ysflight.org/serverlist/$1 [L,R=301]
+RewriteRule ^ys_servers/(.*)$ http://ysflight.org/ys_servers/$1 [L,R=301]
+RewriteRule ^phpbb3/(.*)$ http://forum.ysfhq.com/$1 [L,R=301]
+RewriteRule ^forum/(.*)$ http://forum.ysfhq.com/$1 [L,R=301]
+#RewriteRule ^(.*)$ http://offline.ysfhq.com/ [R=307,L]
