@@ -1,0 +1,17 @@
+Title: YSFlight
+
+----
+
+Author: YSFlight Headquarters
+
+----
+
+Description: YSFlight is the only free flight simulator where anything is possible.
+
+----
+
+Keywords: 
+
+----
+
+Copyright: © 2011-(date: Year) (link: http://ysfhq.com text: YSFlight Headquarters)

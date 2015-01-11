@@ -1,8 +1,7 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Projects
-pages:
-  template: project
+title: Video
+pages: false
 files: false
 fields:
   title:
@@ -11,3 +10,6 @@ fields:
   text:
     label: Text
     type:  textarea
+  url:
+    label: URL
+    type: url
